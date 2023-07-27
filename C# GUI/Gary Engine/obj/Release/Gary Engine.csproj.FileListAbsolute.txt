@@ -1,0 +1,20 @@
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\Gary Engine.exe.config
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\Gary Engine.exe
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\Gary Engine.pdb
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\Newtonsoft.Json.dll
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\Newtonsoft.Json.xml
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\Interop.WMPLib.dll
+E:\Gary Engine\Gary Engine\Gary Engine\bin\Release\AxInterop.WMPLib.dll
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Interop.WMPLib.dll
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\AxInterop.WMPLib.dll
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary Engine.csproj.ResolveComReference.cache
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary_Engine.MainGary.resources
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary_Engine.ObjectDetection.resources
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary_Engine.Properties.Resources.resources
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary_Engine.RecommenderSysQ.resources
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary_Engine.SearchProps.resources
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary Engine.csproj.GenerateResource.cache
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary Engine.csproj.CoreCompileInputs.cache
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary Engine.csproj.CopyComplete
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary Engine.exe
+E:\Gary Engine\Gary Engine\Gary Engine\obj\Release\Gary Engine.pdb
