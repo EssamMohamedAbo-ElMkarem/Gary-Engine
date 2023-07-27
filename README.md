@@ -30,22 +30,22 @@ One approach is to extract the main objects and the features of interest from th
 
 Our algorithm is based on three deep learning technologies first of all in order to extract the main object and the features from the input text, the input text is passed through a T5 model which we fine-tuned specially for this task. 
 
-![image](https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/a904f97d-fde8-43e7-a6fd-1d24c5eefb37)
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/a904f97d-fde8-43e7-a6fd-1d24c5eefb37" width=700/>
 
 T5, also known as Text-to-Text Transfer Transformer, is a neural network-based language model that was developed by Google AI. T5 is trained on a massive dataset of text and code, and it can be used for a variety of natural language processing tasks, including translation, summarization, question answering, and text generation. T5 is a transformer-based language model, which means that it uses a self-attention mechanism to learn long-range dependencies between words in a sentence. This allows T5 to better understand the context of a sentence, which is essential for many natural language processing tasks. T5 has been shown to be very effective at a variety of natural language processing tasks. For example, T5 has achieved state-of-the-art results on the GLUE benchmark, which is a suite of natural language processing tasks. T5 is also being used by Google Translate to improve the quality of translations.
 
 Secondly, in order to fetch the main object of interest from the video frames we used "You Only Look Once" (YOLO) version-8 is a popular object detection algorithm that was first introduced in 2015 by Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi. YOLO is a single-stage object detection algorithm, which means that it can detect objects in a single pass through an image or video. This makes YOLO much faster than two-stage object detection algorithms, such as R-CNN and Fast R-CNN.
 
-![image](https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/0094d4f1-9c1f-49f0-8acf-f32552bf1e4a)
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/0094d4f1-9c1f-49f0-8acf-f32552bf1e4a" width=700/>
 
-![image](https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/8f1977f7-0375-406d-9b70-eb1b799b81ba)
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/8f1977f7-0375-406d-9b70-eb1b799b81ba" width=700/>
 
 Finally, in order to filter the objects with the chosen features we fine-tuned several cnn based models specifically to match out task, we mainly used the following models for the features extraction: 
       
 * Inception which is a type of convolutional neural network (CNN) that was developed by Google in 2014. It is designed to be more efficient than traditional CNNs. It does this by using a technique called "inception" to combine features from different layers of the network. This allows the network to learn more complex features without increasing the number of parameters or the amount of computation required.
 * EfficientNet which is a convolutional neural network (CNN) architecture that was developed by researchers at Google AI in 2019. It is based on the idea that the accuracy of a CNN can be improved by scaling it up, but this comes at the cost of efficiency. EfficientNet addresses this by using a compound coefficient to scale up the width, depth, and resolution of the network in a coordinated way. This allows EfficientNet to achieve state-of-the-art accuracy while still being efficient.
 
-![image](https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/923a5e10-47c9-4ff4-ac13-83beac12fd93)
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/923a5e10-47c9-4ff4-ac13-83beac12fd93" width=700/>
 
 # GarySE Package YOSO Example
 
@@ -57,6 +57,18 @@ Finally, in order to filter the objects with the chosen features we fine-tuned s
 * For the action detection feature we used the network based on the works here <a href="https://github.com/wei-tim/YOWO">YOWO Repository</a>.
 * For the 3-D human reconstruction feature we used the network based on the works here <a href="https://github.com/facebookresearch/pifuhd
 ">PIFUHD Repository</a>.
+
+# Get to Know The Team
+
+<a href="https://www.linkedin.com/in/essam-el-tobgi-394a48179/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/855ff415-0167-4f30-a53f-cb1a8089fbd7" width=25% /></a>
+<a href="https://www.linkedin.com/in/mustafa-osama-164254232/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/f04b4fa5-940c-41f4-bf5a-26eeb946a84f" width=25% /></a>
+<a href="https://www.linkedin.com/in/youssef-barakat25/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/08f6423f-b328-4c64-89f0-a069b1483110" width=25% /></a>
+<a href="https://www.linkedin.com/in/mohamed-sheded-50078920b/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/dae5db27-e170-4dad-9967-47b63f69e7e3" width=25% /></a>
+<a href="https://www.linkedin.com/in/laura-abdulalem-75264621a/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/26d342ef-3a0c-427f-9d3d-8eb6cd76aea4" width=25% /></a>
+<a href="https://www.linkedin.com/in/karim-akmal-296a761aa/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/167930a4-7461-4ede-beb7-23e7c6c21848" width=25% /></a>
+<a href="https://www.linkedin.com/in/mahmoud-khater-154154220/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/1482b524-2e1b-4d10-b814-e60558a8d8d8" width=25% /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-nabil-039069249/"><img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/fd6147f0-967d-42b6-8308-03b6f766edfa" width=25% /></a>
+
 
 
 
