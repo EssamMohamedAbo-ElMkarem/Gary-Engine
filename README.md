@@ -72,7 +72,7 @@ Finally, in order to filter the objects with the chosen features we fine-tuned s
 
 <a href="https://www.linkedin.com/in/mohamed-sheded-50078920b/"><b>Youssef Barakat</b></a>
 
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/dae5db27-e170-4dad-9967-47b63f69e7e3" width=45% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/ea88ac9c-f421-41b4-8788-bde365210c60" width=45% />
 
 <a href="https://www.linkedin.com/in/youssef-barakat25/"><b>Muhammed Sheded</b></a>
 
