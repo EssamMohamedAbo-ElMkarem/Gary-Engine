@@ -8,14 +8,13 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/e1d33db1-c3bf-4558-8a74-fe43ec978e1f" width=800/>
 
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/blob/main/docs/d%20screen.jpg" width=550/>
 Gary is a general-purpose AI based media solution built using state of the art deep learning algorithms to help enhance your experience by anabling the user to search within video content for people and objects(mainly cars) with specific charactristics just by entering natural language input search queries in Arabic or English making use of a vision search algorithm totally developed by the great team behind this project. Gary also offers other AI based features like selective & full object detection, full action detection, face restoration from images, 3-D reconstruction for human beings from a single image, on the spot analysis and video summarization.
 
 # Installation 
 
-In order to make full use of Gary functionality all you have to do is to download the solution from this link and no requirements to be installed other than making sure you have Windows>=10 with .Net Framework>=4.7.2  <a href=""><b>Download and Enjoy!</b></a>
+This repository onlly contains some of the scripts and the required files for the solution to function due to size limitations so in order to make full use of Gary functionality all you have to do is to download the solution from this link and no requirements to be installed other than making sure you have Windows>=10 with .Net Framework>=4.7.2  <a href=""><b>Download and Enjoy!</b></a>
 
 # Usage
 
@@ -47,6 +46,11 @@ Finally, in order to filter the objects with the chosen features we fine-tuned s
 * EfficientNet which is a convolutional neural network (CNN) architecture that was developed by researchers at Google AI in 2019. It is based on the idea that the accuracy of a CNN can be improved by scaling it up, but this comes at the cost of efficiency. EfficientNet addresses this by using a compound coefficient to scale up the width, depth, and resolution of the network in a coordinated way. This allows EfficientNet to achieve state-of-the-art accuracy while still being efficient.
 
 ![image](https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/923a5e10-47c9-4ff4-ac13-83beac12fd93)
+
+# GarySE Package YOSO Example
+
+![image](https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/15527620-fa4b-45ca-90e5-4341a6a0a064)
+
 
 # Third Party Features Citation
 * For the object detection feature we used the network based on the works here <a href="https://github.com/ultralytics/ultralytics">YOLOv8 Repository</a>.
