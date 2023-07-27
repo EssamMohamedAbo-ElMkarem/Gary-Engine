@@ -60,37 +60,23 @@ Finally, in order to filter the objects with the chosen features we fine-tuned s
 
 # Get to Know The Team
 
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/855ff415-0167-4f30-a53f-cb1a8089fbd7" width=45% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/855ff415-0167-4f30-a53f-cb1a8089fbd7" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/f04b4fa5-940c-41f4-bf5a-26eeb946a84f" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/08f6423f-b328-4c64-89f0-a069b1483110" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/ea88ac9c-f421-41b4-8788-bde365210c60" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/48483a74-030a-43f7-bc9b-20551a11123d" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/167930a4-7461-4ede-beb7-23e7c6c21848" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/1482b524-2e1b-4d10-b814-e60558a8d8d8" width=25% />
+<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/fd6147f0-967d-42b6-8308-03b6f766edfa" width=25% />
 
-<a href="https://www.linkedin.com/in/essam-el-tobgi-394a48179/"><b>Essam El-Tobgi</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/f04b4fa5-940c-41f4-bf5a-26eeb946a84f" width=45% />
-
-<a href="https://www.linkedin.com/in/mustafa-osama-164254232/"><b>Mustafa Ossama</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/08f6423f-b328-4c64-89f0-a069b1483110" width=45% />
-
-<a href="https://www.linkedin.com/in/youssef-barakat25/"><b>Youssef Barakat</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/ea88ac9c-f421-41b4-8788-bde365210c60" width=45% />
-
-<a href="https://www.linkedin.com/in/mohamed-sheded-50078920b/"><b>Muhammed Sheded</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/48483a74-030a-43f7-bc9b-20551a11123d" width=45% />
-
-<a href="https://www.linkedin.com/in/laura-abdulalem-75264621a/"><b>Laura Abdul-Allim</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/167930a4-7461-4ede-beb7-23e7c6c21848" width=45% />
-
-<a href="https://www.linkedin.com/in/karim-akmal-296a761aa/"><b>Karim Akmal</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/1482b524-2e1b-4d10-b814-e60558a8d8d8" width=45% />
-
-<a href="https://www.linkedin.com/in/mahmoud-khater-154154220/"><b>Mahmoud Khater</b></a>
-
-<img src="https://github.com/EssamMohamedAbo-ElMkarem/Gary-Engine/assets/50668640/fd6147f0-967d-42b6-8308-03b6f766edfa" width=45% />
-
-<a href="https://www.linkedin.com/in/abdelrahman-nabil-039069249/"><b>Abdulrahman Nabil</b></a>
+* <a href="https://www.linkedin.com/in/essam-el-tobgi-394a48179/"><b>Essam El-Tobgi</b></a>
+* <a href="https://www.linkedin.com/in/mustafa-osama-164254232/"><b>Mustafa Ossama</b></a>
+* <a href="https://www.linkedin.com/in/youssef-barakat25/"><b>Youssef Barakat</b></a>
+* <a href="https://www.linkedin.com/in/mohamed-sheded-50078920b/"><b>Muhammed Sheded</b></a>
+* <a href="https://www.linkedin.com/in/laura-abdulalem-75264621a/"><b>Laura Abdul-Allim</b></a>
+* <a href="https://www.linkedin.com/in/karim-akmal-296a761aa/"><b>Karim Akmal</b></a>
+* <a href="https://www.linkedin.com/in/mahmoud-khater-154154220/"><b>Mahmoud Khater</b></a>
+* <a href="https://www.linkedin.com/in/abdelrahman-nabil-039069249/"><b>Abdulrahman Nabil</b></a>
 
 
 
